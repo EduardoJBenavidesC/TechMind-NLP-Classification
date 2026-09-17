@@ -9,6 +9,7 @@ Organización inteligente de conocimiento técnico para la Hackathon ONE G9
 * **Liderazgo Data Science & NLP:** Diseño y desarrollo de la estrategia de clasificación inteligente y procesamiento de lenguaje (Arquitectura del pipeline de clasificación, preprocesamiento de texto y entrenamiento del modelo de Machine Learning).
 * **Integración API (FastAPI):** Colaboración en la arquitectura e integración del servicio de inferencia (`inference-service`) con el ecosistema backend.
 
+
 ## ¿Qué hace TechMind?
 
 TechMind recibe contenido técnico, lo clasifica mediante un modelo de machine
@@ -124,9 +125,14 @@ alterar esa baseline mediante `compose.https.yaml`; Certbot se ejecuta en el hos
 y los certificados permanecen fuera de Git. Consulta el procedimiento y el
 rollback en [`docs/deployment-oci.md`](docs/deployment-oci.md).
 
+
 ## Desarrollo
 
 Cada componente conserva sus instrucciones específicas de instalación,
 ejecución y pruebas. Los cambios se realizan mediante ramas cortas y pull
 requests revisados. Consulta [`CONTRIBUTING.md`](CONTRIBUTING.md) antes de
 contribuir.
+
+
+
+*Contribuciones técnicas y historial de commits verificados en el repositorio de origen: [Ver commits en GitHub](https://github.com/No-Country-simulation/G9-LATAM-Team-61/commits?author=EduardoJBenavidesC)*
