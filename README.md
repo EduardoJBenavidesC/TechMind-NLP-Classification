@@ -1,9 +1,13 @@
-# TechMind
+# TechMind / StackPulse - Módulo NLP & Clasificación Inteligente
 
 Organización inteligente de conocimiento técnico para la Hackathon ONE G9
 (Alura + Oracle), desarrollada por el equipo G9-LATAM-Team-61.
 
 > Estado: MVP integrado, desplegado y validado en OCI.
+
+## 👨‍💻 Rol Técnico: Lead Data Scientist
+* **Liderazgo Data Science & NLP:** Diseño y desarrollo de la estrategia de clasificación inteligente y procesamiento de lenguaje (Arquitectura del pipeline de clasificación, preprocesamiento de texto y entrenamiento del modelo de Machine Learning).
+* **Integración API (FastAPI):** Colaboración en la arquitectura e integración del servicio de inferencia (`inference-service`) con el ecosistema backend.
 
 ## ¿Qué hace TechMind?
 
